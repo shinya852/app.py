@@ -14,3 +14,11 @@ btn = tk.Button(text="PUSH", command = dispLabel)
 lbl.pack()
 btn.pack()
 tk.mainloop()
+
+#コメント
+"""
+komennt
+コメント
+ここも
+ここまで
+"""
